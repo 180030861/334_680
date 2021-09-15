@@ -1,0 +1,11 @@
+	Pet-care is helpful for people who travel, or who are in need of a pet carertaker. This industry has been evolving recently.
+	There are many pet-care centers available out there, but there are few limitations. The existing pet-care centers do not have a 
+mobile application or a website to register the users and their pets. Though there are many websites out there, they only care for
+the pets on a daily basis.
+	Our contribution in this project is designing a interface for these pet-care centers using UI/UX methodologies. The design is
+a collection of Personas, CJMs, Empathy Map, User Flow Diagram, Low-Fidelity design and High-Fidelity design. The personas include 
+various roles in this project like the HR, manager etc. CJM explains the user's visualization of the product/design. Empathy map is 
+used by the designers to know about the users. User Flow diagram is the descrition of user's flow while using the application.
+In Lo-Fi design we create the visuals. In Hi-Fi design we go with the evaluation of the design.
+	Hence this application is useful for the users to register and access the pet-care center(Pet-Factor).
+	
